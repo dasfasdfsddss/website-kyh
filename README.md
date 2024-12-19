@@ -213,3 +213,6 @@ Participation in the Kubernetes community is governed by the [CNCF Code of Condu
 ## Thank you
 
 Kubernetes thrives on community participation, and we appreciate your contributions to our website and our documentation!
+
+이게 맞나???
+
